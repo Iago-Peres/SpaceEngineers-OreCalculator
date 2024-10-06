@@ -25,6 +25,7 @@ public class WindowFrame extends JFrame {
         Calculator.selector.addItem("Silver");
         Calculator.selector.addItem("Gold");
         Calculator.selector.addItem("Uranium");
+        Calculator.selector.addItem("Magnesium");
         Calculator.selector.addItem("Platinum");
         Calculator.selector.addItem("ScrapMetal");
 
